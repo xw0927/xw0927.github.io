@@ -1,18 +1,18 @@
 ---
 layout: default
-title: About blueface
+title: About Me
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+Multidisciplinary big data specialist with over 4 year of experience in big data field. I'm inspired by and excited to build data infrastructure and data driven products that convert data into actionable bussiness insight. My ultimate goal is to become well-rounded data engineer/scientist. 
 
-> It supports blockquotes, too.
+> "Always deliver more than expected" 
+>                      -Larry Page
 
-## blueface on the Internet
+## Contact
 
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
+* [linkedin][linkedin] 
+* [Github][github] https://xw0927.github.io
 
-[github]: https://github.com/tnguyen/blueface/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io
+
+[github]: https://xw0927.github.io
+[linkedin]: https://www.linkedin.com/in/seaw-wei-tan-63667652/
