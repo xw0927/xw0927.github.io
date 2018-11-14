@@ -1,10 +1,10 @@
 # Jekyll Defaults
-title: testing
-description: A small and simple site I made to test out Jekyll.
+title: Seaw Wei Tan
+description: A blog about big data technology and machine learning
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://xw0927.github.io"
+github: https://github.com/xw0927
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
