@@ -10,9 +10,8 @@ Multidisciplinary big data specialist with over 4 year of experience in big data
 
 ## Contact
 
-* [linkedin][linkedin] 
-* [Github][github] https://xw0927.github.io
-
+* [Linkedin][linkedin] 
+* [Github][github]
 
 [github]: https://xw0927.github.io
 [linkedin]: https://www.linkedin.com/in/seaw-wei-tan-63667652/
